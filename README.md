@@ -14,7 +14,6 @@ The system enables direct communication between clients using **TCP sockets**, w
 - [Screenshots](#screenshots)
 - [How to Run](#how-to-run)
 - [Technologies Used](#technologies-used)
-- [Contributors](#contributors)
 - [License](#license)
 
 ---
