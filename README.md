@@ -124,3 +124,32 @@ Once connected, clients communicate **directly**, ensuring efficient and decentr
    ```bash
    git clone https://github.com/3odeh/p2p-chat-javafx.git
    cd p2p-chat-javafx
+   ```
+
+2. **Run the Directory Server**
+   - Open `DirectoryServer.java`
+   - Run the main method  
+   *(This will listen for client connections.)*
+
+3. **Run Client Applications**
+   - Open multiple instances of `ClientApp.java`
+   - Enter unique usernames on login.
+   - Select a client and start chatting!
+
+---
+
+## 🛠️ Technologies Used
+- **Java** (Sockets, Threads)
+- **JavaFX** (UI)
+- **TCP/IP Networking**
+- **Object-Oriented Design**
+- **Multithreading**
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License** — free to use and modify for educational purposes.
+
+---
+
+### ⭐ If you found this project helpful, consider giving it a star on GitHub!
